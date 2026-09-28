@@ -1,8 +1,11 @@
 // ==UserScript==
 // @name         The Spriters Resource - Instant Preferences
+// @author       PixelSpark987 - https://is.gd/PS987
 // @namespace    http://tampermonkey.net/
 // @version      1.1
 // @description  Instantly set preferences in The Spriters Resource
+// @downloadURL  https://raw.githubusercontent.com/PixelSpark987/The-Spriters-Resource-Instant-Preferences/refs/heads/main/The%20Spriters%20Resource%20-%20Instant%20Preferences.js
+// @updateURL    https://raw.githubusercontent.com/PixelSpark987/The-Spriters-Resource-Instant-Preferences/refs/heads/main/The%20Spriters%20Resource%20-%20Instant%20Preferences.js
 // @match        *://*.spriters-resource.com/*
 // @grant        none
 // @run-at       document-start
